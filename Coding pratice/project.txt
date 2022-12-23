@@ -1,0 +1,7 @@
+Instalation gide
+    https://tesseract-ocr.github.io/tessdoc/Compiling.html
+    Need python Libs
+        - opencv-python
+        - pytesseract
+        - mss
+
